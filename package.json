@@ -1,12 +1,15 @@
 {
-  "name": "app",
+  "name": "httplife",
   "version": "1.0.0",
-  "description": "Koa",
+  "description": "httplife website",
   "main": "server.js",
   "license": "MIT",
   "type": "module",
+  "repository": { "type": "git", "url": "https://github.com/httplife/httplife.github.io.git" },
+  "author": "httplife <me@httplife.com> (http://httplife.com)",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "build": "yarn build",
   },
   "dependencies": {
     "@koa/cors": "^3.1.0",
