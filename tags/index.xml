@@ -5,6 +5,16 @@
     <link>https://httplife.com/tags/</link>
     <description>Recent content in Tags on HTTPLIFE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://httplife.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://httplife.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://httplife.com/tags/blog/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://httplife.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
