@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>HTTPLIFE</title>
     <link>https://httplife.com/projects/</link>
@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://httplife.com/projects/data-analysis/</guid>
-      <description>How I become a data analyst.</description>
+      <description>How I become a data analyst. replace old branch</description>
     </item>
     
   </channel>
