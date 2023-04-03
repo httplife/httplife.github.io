@@ -22,11 +22,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://httplife.com/tags/frontend/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://httplife.com/projects/fullstack/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://httplife.com/projects/fullstack/flask/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://httplife.com/projects/fullstack/hate-crime-tracker/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
