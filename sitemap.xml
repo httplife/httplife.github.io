@@ -22,6 +22,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://httplife.com/projects/data-analysis/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://httplife.com/tags/frontend/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -35,6 +39,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://httplife.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://httplife.com/notes/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
